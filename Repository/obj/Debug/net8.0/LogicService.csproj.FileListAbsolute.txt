@@ -1,0 +1,15 @@
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/bin/Debug/net8.0/LogicService.deps.json
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/bin/Debug/net8.0/LogicService.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/bin/Debug/net8.0/LogicService.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/bin/Debug/net8.0/database.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/bin/Debug/net8.0/database.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.csproj.AssemblyReference.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.AssemblyInfoInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.AssemblyInfo.cs
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.csproj.CoreCompileInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicSer.9C69E4BA.Up2Date
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/refint/LogicService.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/LogicService.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/LogicService/obj/Debug/net8.0/ref/LogicService.dll

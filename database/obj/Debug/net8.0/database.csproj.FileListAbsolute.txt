@@ -1,0 +1,11 @@
+/Users/leonzacharewicz/RiderProjects/MySolution/database/bin/Debug/net8.0/database.deps.json
+/Users/leonzacharewicz/RiderProjects/MySolution/database/bin/Debug/net8.0/database.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/database/bin/Debug/net8.0/database.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.AssemblyInfoInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.AssemblyInfo.cs
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.csproj.CoreCompileInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/refint/database.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/database.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/Debug/net8.0/ref/database.dll

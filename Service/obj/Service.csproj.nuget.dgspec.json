@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonzacharewicz/RiderProjects/MySolution/Service/Service.csproj": {}
+  },
+  "projects": {
+    "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj",
+        "projectName": "database",
+        "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj",
+        "packagesPath": "/Users/leonzacharewicz/.nuget/packages/",
+        "outputPath": "/Users/leonzacharewicz/RiderProjects/MySolution/database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonzacharewicz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/Repository.csproj",
+        "packagesPath": "/Users/leonzacharewicz/.nuget/packages/",
+        "outputPath": "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonzacharewicz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj": {
+                "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/leonzacharewicz/RiderProjects/MySolution/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonzacharewicz/RiderProjects/MySolution/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/Service/Service.csproj",
+        "packagesPath": "/Users/leonzacharewicz/.nuget/packages/",
+        "outputPath": "/Users/leonzacharewicz/RiderProjects/MySolution/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonzacharewicz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj": {
+                "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/database/database.csproj"
+              },
+              "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/Repository.csproj": {
+                "projectPath": "/Users/leonzacharewicz/RiderProjects/MySolution/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

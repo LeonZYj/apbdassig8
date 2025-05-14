@@ -1,0 +1,15 @@
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/bin/Debug/net8.0/Repository.deps.json
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/bin/Debug/net8.0/Repository.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/bin/Debug/net8.0/Repository.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/bin/Debug/net8.0/database.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/bin/Debug/net8.0/database.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.csproj.AssemblyReference.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.AssemblyInfoInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.AssemblyInfo.cs
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.csproj.CoreCompileInputs.cache
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.csproj.Up2Date
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/refint/Repository.dll
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/Repository.pdb
+/Users/leonzacharewicz/RiderProjects/MySolution/Repository/obj/Debug/net8.0/ref/Repository.dll
